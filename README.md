@@ -1,16 +1,29 @@
-# 💫 Hi 👋, I'm Yash Hulge
-**A passionate Software Engineer || AI Architect/Engineer || Cloud SaaS Engineer**
+# 💫 Hi 👋, I'm Yash Bhalchandra Hulge
 
-Email Me 👉 ✉️ **hulgeyash12@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Bharat-Setu, Mixture of expert and AI driven PLatform which is a Multi-Lingual Language Featured with 3 AI expertize Model.
-- 🌱 **I’m currently learning:** AI transfromer training, AI modeling, Azure Could SaaS platform
-- 👯 **I’m looking to collaborate on:** Bharat-Setu.
-- 🤔 **I’m looking for help with:** Bharat-Setu.
-- 💬 **Ask me about:** Collaboration, Tech Support.
-- 📫 **How to reach me:** hulgeyash12@gmail.com/hulgeyash6969@gmail.com
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me.
+
+**Computer Engineering Student || Frontend Developer || AI Enthusiast**
+
+Email Me 👉 ✉️ **hulgeyash12@gmail.com** For Collaboration, Projects, or Tech Talk. 😊
+
+* 🔭 **I’m currently working on:** Developing JavaScript repositories including VIPANI, smart-table-resolver, and Conix-Xart.
+* 🌱 **I’m currently learning:** Advancing my skills in modern frontend technologies like React.js. I am also expanding my knowledge of machine learning in Python.
+
+
+* 🚀 **Recent Shipments:** I engineered an AI-Powered Financial Web Application integrating the Gemini API. I built a DeepFake Video Detection Model utilizing Python and Machine Learning. I also architected a dynamic PokeDex Web Application using React.js and JavaScript. My recent repository updates include projects like Yash_Portfolio, Weather, and ecommerce. Furthermore, I have pushed code for an Advance-Banking-System-File-Based project and upstoxTrader.
+
+
+* 👯 **I’m looking to collaborate on:** Projects involving React.js, modern frontend frameworks, or Python-based AI integrations.
+
+
+* 💬 **Ask me about:** Frontend development with HTML5, CSS3, and JavaScript. You can also ask me about core programming in C++ and Python.
+
+
+* 📫 **How to reach me:** hulgeyash12@gmail.com.
+
+
+* 😄 **Pronouns:** he/him.
+* ⚡ **Fun fact:** I hold certifications in Microsoft Azure AI Fundamentals and Machine Learning in Python & SKLearn. I also speak A1 Level German.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_hashirama_04_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-hulge-6290b5247) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hulgeyash12@gmail.com) 
 
